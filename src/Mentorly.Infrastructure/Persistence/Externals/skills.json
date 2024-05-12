@@ -1,0 +1,1003 @@
+[
+  {
+    "id": 1,
+    "name": "Communication",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 2,
+    "name": "Collaboration",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 3,
+    "name": "Problem-solving",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 4,
+    "name": "Time management",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 5,
+    "name": "Critical-thinking",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 6,
+    "name": "Empathy",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 7,
+    "name": "Team player",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 8,
+    "name": "Organisation skills",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 9,
+    "name": "Presentation skills",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 10,
+    "name": "Customer service",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 11,
+    "name": "Conflict resolution",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 12,
+    "name": "Stakeholder management",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 13,
+    "name": "Leadership",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 14,
+    "name": "Analytical skills",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 15,
+    "name": "Project management",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 16,
+    "name": "Public Speaking",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 17,
+    "name": "Negotiation",
+    "skill_type": "Soft",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 18,
+    "name": "2D Animation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 19,
+    "name": "3D Animation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 20,
+    "name": "Accessibility",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 21,
+    "name": "Advanced data analytics",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 22,
+    "name": "Affiliate marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 23,
+    "name": "AI/ML",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 24,
+    "name": "Blog writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 25,
+    "name": "Brand positioning",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 26,
+    "name": "Brand strategy",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 27,
+    "name": "Branding",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 28,
+    "name": "Business intelligence",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 29,
+    "name": "Campaign execution & analysis",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 30,
+    "name": "Cloud computing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 31,
+    "name": "Community management",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 32,
+    "name": "Content creation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 33,
+    "name": "Content editing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 34,
+    "name": "Content pipeline",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 35,
+    "name": "Content research",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 36,
+    "name": "Content strategy",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 37,
+    "name": "Conversion optimisation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 38,
+    "name": "Data mining",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 39,
+    "name": "Data visualisation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 40,
+    "name": "Database management",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 41,
+    "name": "Deal strategy",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 42,
+    "name": "Design systems",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 43,
+    "name": "Email marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 44,
+    "name": "Email writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 45,
+    "name": "Event organisation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 46,
+    "name": "Forecasting and reporting",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 47,
+    "name": "Game programming",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 48,
+    "name": "Human computer interaction",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 49,
+    "name": "Illustration",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 50,
+    "name": "Influencer marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 51,
+    "name": "Information architecture",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 52,
+    "name": "LinkedIn writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 53,
+    "name": "Machine learning",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 54,
+    "name": "Budget management",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 55,
+    "name": "Market research",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 56,
+    "name": "Marketing strategy",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 57,
+    "name": "Mathematics",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 58,
+    "name": "Monetisation",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 59,
+    "name": "Newsletter writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 60,
+    "name": "Partnership",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 61,
+    "name": "PR writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 62,
+    "name": "Probability",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 63,
+    "name": "Product analytics",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 64,
+    "name": "Product roadmap",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 65,
+    "name": "Product strategy",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 66,
+    "name": "Prototyping",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 67,
+    "name": "Qualitative research",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 68,
+    "name": "Quantitative research",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 69,
+    "name": "Referrals",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 70,
+    "name": "Relationship management",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 71,
+    "name": "Sales plan and process",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 72,
+    "name": "SEM",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 73,
+    "name": "SEO",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 74,
+    "name": "SEO Writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 75,
+    "name": "Social media marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 76,
+    "name": "Statical Analysis",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 77,
+    "name": "Tone consistency",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 78,
+    "name": "Twitter writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 79,
+    "name": "Typography",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 80,
+    "name": "Usability Testing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 81,
+    "name": "User research",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 82,
+    "name": "Video marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 83,
+    "name": "Viral marketing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 84,
+    "name": "Whitepaper/ebook Writing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 85,
+    "name": "Video editing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 86,
+    "name": "Unit Testing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 87,
+    "name": "Integration Testing",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 88,
+    "name": "Conversational AI",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 89,
+    "name": "CAD design",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 90,
+    "name": "R&D",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  },
+  {
+    "id": 91,
+    "name": "Chatbot",
+    "skill_type": "Applied",
+    "motivation": {
+      "id": 12,
+      "description": "Skills"
+    },
+    "total_mentors": null,
+    "disabled": false
+  }
+]

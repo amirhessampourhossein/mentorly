@@ -1,0 +1,82 @@
+[
+  {
+    "id": 27,
+    "description": "Content Writing",
+    "color_code": "#FF6602",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/9224cdf3a0d648a9bca4049da918a02eBm99p.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 28,
+    "description": "Data Science",
+    "color_code": "#ce82ff",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/3e38daac291f4ac993cf7f28c9ff2260RhRjH.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 24,
+    "description": "Design",
+    "color_code": "#F88634",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/68868f0bd46d4b10a03cc0c58ce9311cST84I.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 22,
+    "description": "Engineering",
+    "color_code": "#FF5A5F",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/7eb66c4b6bd24d459cbc3f751089a830bESmd.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 25,
+    "description": "Marketing",
+    "color_code": "#30D158",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/6c96860d575d4033b49391ea6fbab99a0GWWz.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 29,
+    "description": "No/Low Code",
+    "color_code": "#30D158",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/e268a00fc57c40229758bcdacef62976hRjgo.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 20,
+    "description": "Product",
+    "color_code": "#3D9AE8",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/e2678a77e84b4945ac47bec96047e7c83kaOl.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 26,
+    "description": "Product Research",
+    "color_code": "#CC8899",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/e07e66793e384e18a5f59b211497bc16XJDEN.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 31,
+    "description": "Sales/BD",
+    "color_code": "#CE82FF",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/ed2d2c5af9504cd28e11b2e28fc2b1dawGVjw.svg",
+    "disabled": false,
+    "total_mentors": 0
+  },
+  {
+    "id": 30,
+    "description": "Talent Acquisition",
+    "color_code": "#FF5A5F",
+    "icon_svg": "https://adplist-bucket.s3.amazonaws.com/media/expertise_icon_svg/5db99da782ba4732b1bc9d688e5bc909diUYE.svg",
+    "disabled": false,
+    "total_mentors": 0
+  }
+]
